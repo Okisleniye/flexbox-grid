@@ -44,7 +44,7 @@ a shadow.
 
 **Screenshot:**
 
-<img width="1920" height="1140" alt="Снимок экрана 2026-09-27 205708" src="https://github.com/user-attachments/assets/4514cf71-9cd3-4bf4-8ec6-968e76206a7f" />
+<img width="1920" height="1140" alt="Снимок экрана 2026-09-27 205708" src="https://github.com/user-attachments/assets/bdb4eb8d-3d8d-4da0-9961-52ef899042cf" />
 
 ## Part 2 — Grid System
 
@@ -56,7 +56,8 @@ and a footer (spanning the bottom).
 
 **Screenshot:**
 
-<img width="1920" height="1140" alt="Снимок экрана 2026-09-27 205712" src="https://github.com/user-attachments/assets/554f8eab-82cc-41af-b65c-ba6c52ea63ec" />
+<img width="1920" height="1140" alt="Снимок экрана 2026-09-27 205712" src="https://github.com/user-attachments/assets/035226cf-b906-42f8-aed0-e7e4eb125931" />
+
 
 ### Task 3. Image Gallery
 
@@ -66,7 +67,8 @@ positioned with `position: absolute; inset: 0;`.
 
 **Screenshot:**
 
-<img width="1920" height="1140" alt="Снимок экрана 2026-09-27 205717" src="https://github.com/user-attachments/assets/607af7b6-a65f-4bb7-84af-825ab7119ef0" />
+<img width="1920" height="1140" alt="Снимок экрана 2026-09-27 205717" src="https://github.com/user-attachments/assets/b036cd31-3d52-42b6-8b4c-d64db02c0958" />
+
 
 
 ## Part 3 — Combining Flexbox & Grid
@@ -82,7 +84,8 @@ footer spans the full width below.
 
 **Screenshot:**
 
-<img width="1920" height="1140" alt="Снимок экрана 2026-09-27 210210" src="https://github.com/user-attachments/assets/400090ff-a56f-4d31-9264-54bf03d4cd6a" />
+<img width="1920" height="1140" alt="Снимок экрана 2026-09-27 210210" src="https://github.com/user-attachments/assets/78b29bec-f6dd-43cb-ab54-5b58f7d665c9" />
+
 
 
 ## Summary of Work Process
