@@ -1,0 +1,17 @@
+<svg viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="200" fill="#0891b2"/>
+
+  <!-- container outline -->
+  <rect x="50" y="30" width="300" height="140" rx="6" fill="none" stroke="#ffffff" stroke-width="2" stroke-dasharray="5,5" opacity="0.5"/>
+
+  <!-- centered item -->
+  <rect x="160" y="80" width="80" height="40" rx="8" fill="#ffffff"/>
+
+  <!-- alignment guide arrows -->
+  <line x1="200" y1="30" x2="200" y2="80" stroke="#ffffff" stroke-width="2" opacity="0.7"/>
+  <line x1="200" y1="120" x2="200" y2="170" stroke="#ffffff" stroke-width="2" opacity="0.7"/>
+  <line x1="50" y1="100" x2="160" y2="100" stroke="#ffffff" stroke-width="2" opacity="0.7"/>
+  <line x1="240" y1="100" x2="350" y2="100" stroke="#ffffff" stroke-width="2" opacity="0.7"/>
+
+  <text x="200" y="185" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#ffffff" text-anchor="middle" opacity="0.9">justify-content · align-items</text>
+</svg>

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Task 4 - Portfolio Page</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <!-- Flexbox used for the navigation bar -->
+  <header class="navbar">
+    <div class="logo">Fariddin.dev</div>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="grid-layout.html">Layout</a></li>
+      <li><a href="gallery.html">Gallery</a></li>
+      <li><a href="portfolio.html">Portfolio</a></li>
+    </ul>
+  </header>
+
+  <section class="section" style="padding-bottom:0;">
+    <h2>Part 3 - Task 4: Portfolio Page</h2>
+    <p class="section-sub">CSS Grid arranges the main section (projects left, sidebar right); Flexbox arranges the navbar and each project card.</p>
+  </section>
+
+  <!-- CSS Grid used for the main section layout -->
+  <main class="portfolio-main">
+
+    <!-- Projects area: Flexbox column of project cards -->
+    <div class="portfolio-projects">
+
+      <!-- Each project card uses Flexbox internally -->
+      <div class="project-card">
+        <img class="project-img" src="images/project-weather-app.svg" alt="Weather App preview" />
+        <div class="project-info">
+          <h3>Weather App</h3>
+          <p>A small JS app that fetches and displays live weather data.</p>
+        </div>
+        <a class="btn" href="#">View</a>
+      </div>
+
+      <div class="project-card">
+        <img class="project-img" src="images/project-task-tracker.svg" alt="Task Tracker preview" />
+        <div class="project-info">
+          <h3>Task Tracker</h3>
+          <p>A CRUD to-do list built with vanilla JavaScript and localStorage.</p>
+        </div>
+        <a class="btn" href="#">View</a>
+      </div>
+
+      <div class="project-card">
+        <img class="project-img" src="images/project-landing-page.svg" alt="Landing Page preview" />
+        <div class="project-info">
+          <h3>Landing Page</h3>
+          <p>A responsive landing page built with Flexbox and CSS Grid.</p>
+        </div>
+        <a class="btn" href="#">View</a>
+      </div>
+
+    </div>
+
+    <!-- Sidebar / info area -->
+    <aside class="portfolio-sidebar">
+      <h3>About Me</h3>
+      <ul>
+        <li>Fariddin</li>
+        <li>IT Student, AITU, Group 4</li>
+        <li>Interested in AI &amp; software engineering</li>
+        <li>Astana, Kazakhstan</li>
+      </ul>
+    </aside>
+  </main>
+
+  <footer class="site-footer">Assignment #2 - Fariddin, Group 4</footer>
+</body>
+</html>

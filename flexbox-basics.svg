@@ -1,0 +1,14 @@
+<svg viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="200" fill="#4f46e5"/>
+  <!-- main axis line -->
+  <line x1="40" y1="100" x2="360" y2="100" stroke="#ffffff" stroke-width="2" stroke-dasharray="6,6" opacity="0.5"/>
+  <polygon points="360,100 350,95 350,105" fill="#ffffff" opacity="0.5"/>
+
+  <!-- flex items row -->
+  <rect x="60" y="70" width="60" height="60" rx="8" fill="#ffffff" opacity="0.95"/>
+  <rect x="150" y="55" width="60" height="90" rx="8" fill="#ffffff" opacity="0.85"/>
+  <rect x="240" y="80" width="60" height="40" rx="8" fill="#ffffff" opacity="0.95"/>
+
+  <text x="200" y="30" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">display: flex</text>
+  <text x="200" y="175" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#ffffff" text-anchor="middle" opacity="0.85">main axis →</text>
+</svg>

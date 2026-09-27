@@ -1,0 +1,13 @@
+<svg viewBox="0 0 300 180" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="180" fill="#0ea5e9"/>
+  <circle cx="230" cy="45" r="26" fill="#fef3c7"/>
+  <ellipse cx="90" cy="55" rx="42" ry="24" fill="#ffffff" opacity="0.9"/>
+  <ellipse cx="130" cy="60" rx="30" ry="18" fill="#ffffff" opacity="0.9"/>
+  <text x="20" y="120" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#ffffff">24°C</text>
+  <text x="20" y="145" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#e0f2fe">Astana · Partly Cloudy</text>
+  <g fill="#ffffff" opacity="0.85" font-family="Segoe UI, Arial, sans-serif" font-size="11">
+    <rect x="20" y="155" width="40" height="16" rx="4" fill="#0284c7"/>
+    <rect x="65" y="155" width="40" height="16" rx="4" fill="#0284c7"/>
+    <rect x="110" y="155" width="40" height="16" rx="4" fill="#0284c7"/>
+  </g>
+</svg>

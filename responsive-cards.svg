@@ -1,0 +1,19 @@
+<svg viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="200" fill="#db2777"/>
+
+  <!-- wide row (before wrap) -->
+  <rect x="40" y="35" width="70" height="45" rx="6" fill="#ffffff" opacity="0.95"/>
+  <rect x="120" y="35" width="70" height="45" rx="6" fill="#ffffff" opacity="0.95"/>
+  <rect x="200" y="35" width="70" height="45" rx="6" fill="#ffffff" opacity="0.95"/>
+  <rect x="280" y="35" width="70" height="45" rx="6" fill="#ffffff" opacity="0.95"/>
+
+  <!-- arrow indicating wrap -->
+  <path d="M200,95 q0,20 -20,20 h-140" stroke="#ffffff" stroke-width="2" fill="none" opacity="0.7"/>
+  <polygon points="40,115 50,110 50,120" fill="#ffffff" opacity="0.7"/>
+
+  <!-- wrapped narrower rows -->
+  <rect x="40" y="130" width="150" height="45" rx="6" fill="#ffffff" opacity="0.95"/>
+  <rect x="210" y="130" width="150" height="45" rx="6" fill="#ffffff" opacity="0.95"/>
+
+  <text x="200" y="20" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#ffffff" text-anchor="middle" opacity="0.9">flex-wrap: wrap</text>
+</svg>
